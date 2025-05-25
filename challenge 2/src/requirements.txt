@@ -1,6 +1,16 @@
-python
-kaggle
-scikit-learn
+PyTorch
+
+torchvision
+
 pandas
+
 numpy
+
+scikit-learn
+
+PIL (Pillow)
+
+tqdm
+
 matplotlib
+
