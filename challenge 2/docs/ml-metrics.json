@@ -1,0 +1,11 @@
+{
+  "_comment": "This JSON file containing the ml-metrics",
+  "Name": "Annam.ai",
+  "Kaggle Username": "AIMLD28_KAUSHIK PAL",
+  "Team Name": "Overtakers",
+  "f1 scores": {
+    "_comment": "Here are the class wise f1 scores",
+    "soil": 0.48,
+    "not soil": 0.48,
+  }
+}
