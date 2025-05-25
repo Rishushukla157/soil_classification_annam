@@ -6,8 +6,9 @@ Team Members: Member-1 rishu Shukla, member-2 Kaushik pal
 Leaderboard Rank: 88
 
 """
-
-# Here you add all the post-processing related details for the task completed from Kaggle.
+submission = pd.DataFrame(predictions, columns=['image_id', 'label'])
+submission.to_csv("submission.csv", index=False)
+print("✅ submission.csv saved.")
 
 def postprocessing():
     print("This is the file for postprocessing")
