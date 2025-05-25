@@ -1,6 +1,6 @@
-PyTorch: Manual seed setting for model initialization
-.NumPy: Random state configuration for data splitting
-.Scikit-learn: Fixed random_state for cross-validation split
+PyTorch
+NumPy
+Scikit-learn
 python
 kaggle
 scikit-learn
